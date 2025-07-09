@@ -5,3 +5,7 @@ be obtained.
 please load varibles.py to folders set as python path for library to work properly
 Library is still developing :)
 (:Thanks to sparkfun for their Arduino Library which helped me lot in developing this:)
+
+Please find the project report here for full documentation
+
+https://drive.google.com/file/d/16tUxXdj6cbORtltFrIpqwmV0JH5CgQZs/view?usp=drive_link
